@@ -1,5 +1,5 @@
-# Kata-seed
+# Connect - code snippets
 
-This seed contains setup for kata involving Unit testing and code coverage.
+This repository contains the code snippets used for Connect Test module. In particular :
 
-It is available in several-languages in order to enable as many people as possible to have a quick setup. Check the `README.md` file in each folder to see how to setup your solution.
+- [Tennis score base kata](./ts/src/tennis-kata/README.md)
