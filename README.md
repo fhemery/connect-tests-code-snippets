@@ -13,4 +13,6 @@ This repository contains the code snippets used for Connect Test module. In part
 
 Correction des exercices en TDD (disponibles uniquement sur `solution`):
 
+- [Fizzbuzz kata](./ts/src/fizzbuzz/README.md)
+- [LeapYears kata](./ts/src/leap-years/README.md)
 - [Bowling kata](./ts/src/bowling/README.md)
