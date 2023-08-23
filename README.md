@@ -8,3 +8,4 @@ This repository contains the code snippets used for Connect Test module. In part
 - Test doubles code, in [Typescript](./ts/src/doublures/README.md) and [Java](./java/src/main/java/test/doubles/README.md)
 - [Currency conversion kata](./ts/src/currency-conversion/README.md)
 - [Trip service kata](./ts/src/trip-service/README.md)
+- Approval testing interfacing, with [Digging estimator kata](./ts/src/digging-estimator/README.md)
