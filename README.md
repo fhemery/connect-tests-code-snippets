@@ -9,3 +9,4 @@ This repository contains the code snippets used for Connect Test module. In part
 - [Currency conversion kata](./ts/src/currency-conversion/README.md)
 - [Trip service kata](./ts/src/trip-service/README.md)
 - Approval testing interfacing, with [Digging estimator kata](./ts/src/digging-estimator/README.md)
+- Showing how units of code dynamically evolve with [Bank-account exercise](./ts/src/bank-account/README.md)
